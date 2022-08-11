@@ -1,0 +1,17 @@
+.bd-footer a {
+    color: #495057;
+    text-decoration: none;
+}
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+  .icon-bar{
+    justify-content: center;
+
+  }
+  /* Style the icon bar links */
+  .icon-bar a {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-size: 32px;
+    margin-left: 2px;
+  }
